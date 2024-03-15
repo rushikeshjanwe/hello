@@ -1,8 +1,14 @@
+Ticket - 01
+void display(){
 
-
+}
 
 public static void main(String[] args){
 
 }
 
+Ticket - 02
 
+void status(){
+
+}
