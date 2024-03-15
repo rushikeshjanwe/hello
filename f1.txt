@@ -19,4 +19,13 @@ void status(){
 
 My Brother Name is Yash
 
+<<<<<<< Updated upstream
 Time is 18:52
+=======
+My name is Rushikesh
+
+I am a Java Developer
+
+I am a Billionaire
+
+>>>>>>> Stashed changes
