@@ -1,0 +1,11 @@
+
+
+
+// Ticket == A-01
+void name(){
+System.out.println("Rushikesh Janwe");
+}
+
+void display(){
+System.out.println("-----");
+}
